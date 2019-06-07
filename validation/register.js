@@ -41,8 +41,6 @@ if (!Validator.equals(data.password, data.password2)) {
 
 if (Validator.isEmpty(data.phone)){
     errors.phone = "Phone number fielf is required";
-}else if (!Validator.isMobilePhone(data.phone)){
-    errors.phone = "Phone number is invalid";
 }
 
 return {
