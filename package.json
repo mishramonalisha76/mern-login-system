@@ -21,9 +21,6 @@
   },
   "homepage": "https://github.com/mishramonalisha76/mern-login-system#readme",
   "dependencies": {
-    "@material-ui/core": "^4.0.2",
-    "@material-ui/icons": "^4.0.1",
-    "@material-ui/styles": "^4.1.1",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "concurrently": "^4.1.0",
@@ -34,9 +31,6 @@
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "serve-favicon": "^2.5.0",
     "validator": "^11.0.0"
   },
   "devDependencies": {

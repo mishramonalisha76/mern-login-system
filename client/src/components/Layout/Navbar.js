@@ -1,4 +1,4 @@
-import React , {Component} from 'react';
+import React from 'react';
 import { withStyles } from '@material-ui/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
@@ -12,7 +12,7 @@ const styles = theme => ({
     flexGrow: 1,
   },
   menuButton: {
-    marginRight: theme.spacing(2),
+    marginRight: 2,
   },
   title: {
     flexGrow: 1,
