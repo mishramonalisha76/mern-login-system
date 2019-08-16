@@ -21,20 +21,27 @@
   },
   "homepage": "https://github.com/mishramonalisha76/mern-login-system#readme",
   "dependencies": {
+    "axios": "^0.19.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
+    "classnames": "^2.2.6",
     "concurrently": "^4.1.0",
+    "dependency": "0.0.1",
     "express": "^4.17.1",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
     "mongoose": "^5.5.12",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "thunk": "0.0.1",
     "validator": "^11.0.0"
   },
   "devDependencies": {
-    "eslint-plugin-react-hooks": "^1.6.0",
     "nodemon": "^1.19.1"
   }
 }
